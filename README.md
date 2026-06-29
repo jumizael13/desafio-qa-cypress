@@ -1,4 +1,4 @@
-# 🚀 Desafio Técnico QA - Cypress
+# 🚀 Desafio Técnico QA - Automação Web e API com Cypress
 
 ## 📋 Sobre o projeto
 
