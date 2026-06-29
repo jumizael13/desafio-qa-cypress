@@ -84,7 +84,7 @@ Antes de executar o projeto, certifique-se de possuir os seguintes softwares ins
 Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/jumizael13/desafio-qa-cypress.git
 ```
 
 Acesse a pasta do projeto:
@@ -139,11 +139,12 @@ Ao executar os testes, o Cypress deverá:
 
 ## 📐 Boas práticas adotadas
 
-- Page Object Model (POM)
+- Organização do projeto baseada em Page Object Model (POM)
 - Escrita de cenários em BDD utilizando Gherkin
 - Separação entre Features, Step Definitions e Page Objects
 - Reutilização de código
 - Organização por funcionalidades
+- Código estruturado para facilitar manutenção e escalabilidade
 
 ## 👩‍💻 Autor
 
